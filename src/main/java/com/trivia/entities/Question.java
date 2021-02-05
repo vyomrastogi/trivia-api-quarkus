@@ -1,4 +1,4 @@
-package com.trivia;
+package com.trivia.entities;
 
 import java.util.ArrayList;
 import java.util.Date;

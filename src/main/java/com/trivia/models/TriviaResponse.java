@@ -1,7 +1,9 @@
-package com.trivia;
+package com.trivia.models;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.trivia.entities.Question;
 
 import io.quarkus.runtime.annotations.RegisterForReflection;
 
